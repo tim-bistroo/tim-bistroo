@@ -1,0 +1,2 @@
+- 👋 Tim Haerkens, Front-end Developer of Bistroo
+- 📫 tim@bistroo.nl
